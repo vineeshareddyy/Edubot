@@ -1,0 +1,788 @@
+[
+  [
+    {
+      "query": "mvsr college",
+      "response": "MVSREngineering College, located in Hyderabad, Telangana, offers the following courses:\n\n*   **B.Tech:**  The yearly fee is ₹1,25,000. Accepted entrance exam is TSEAMCET.  Eight courses are offered, including Civil, Mechanical, Computer Science, Information Technology, and others.\n*   **MBA:** The yearly fee is ₹28,000. Accepted entrance exam is TSICET. Three courses are offered: Finance, Marketing, and Human Resources.\n*   **M.Tech:** The yearly fee is ₹85,000. Accepted entrance exams are GATE and TSPGECET. Five courses are offered, including CAD/CAM/CAE, Computer Science, Structural Engineering, VLSI & Embedded Systems.\n*   **M.E.:** The yearly fee is ₹57,000. Two courses are offered: Mechanical (Cad/Cam) and ECE (Embedded Systems & VLSI Design).\n\n\nThe college was established in 1981 and is private.  It has a median placement salary of 5.25 Lacs.  Top recruiters include Amazon, Deloitte, Accenture, LTIMindtree, Infosys, Cognizant, Mu Sigma, SAP, Hyundai, Wipro, Persistent, Capgemini, and Polaris.  The highest package offered was 6 Lacs.",
+      "audio": "C:\\Users\\HP\\AppData\\Local\\Temp\\tmph7gt075z.mp3"
+    },
+    {
+      "query": "sritw",
+      "response": "Based on the context provided, SRITW stands for **Sumathi Reddy Institute of Technology for Women**.  It is located in Warangal, Telangana, India.  The institute offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  It also offers lateral entry into the B.Tech programs.  Key features include a focus on women's empowerment in technology, an Innovation and Entrepreneurship Development Centre, and a Technology Business Incubator.",
+      "audio": null
+    }
+  ],
+  [
+    {
+      "query": "bomma institue of technology and science",
+      "response": "The context contains information about Bomma Institute of Technology and Science.  It offers B.Tech programs in Civil Engineering, Computer Science & Engineering, Electrical and Electronics Engineering, Electronics and Communications Engineering, and Mechanical Engineering, each with an intake of 120 students in the first shift.  It also offers M.Tech programs in various specializations, such as Highway Engineering, Structural Engineering, Computer Science & Engineering, Control Systems, Electric Power System, Digital Electronics and Communication Systems, VLSI, Design for Manufacturing, and CAD/CAM, with intakes of 18 or 36 students.  \n\nThe institute's facilities include a library with over 27,000 books and 150 journals, separate hostels for boys and girls, and IT infrastructure with 452 systems. The hostel fee is INR 35,000 per year.  The library at Bomma Group of Institutions houses 27,000 volumes of books and 150 national and international journals.  The provided text also includes cutoff ranks for different B.Tech branches for different phases (I, II, and III) and categories (Boys/Girls).",
+      "audio": "C:\\Users\\HP\\AppData\\Local\\Temp\\tmpb90kaf7a.mp3"
+    }
+  ],
+  [
+    {
+      "query": "mvsr college",
+      "response": "MVSREngineering College, located in Hyderabad, Telangana, offers the following courses:\n\n*   **B.Tech:**  The yearly fee is ₹1,25,000. Accepted entrance exam is TSEAMCET.  Eight courses are offered, including Civil, Mechanical, Computer Science, Information Technology, and others.\n*   **MBA:** The yearly fee is ₹28,000. Accepted entrance exam is TSICET. Three courses are offered: Finance, Marketing, and Human Resources.\n*   **M.Tech:** The yearly fee is ₹85,000. Accepted entrance exams are GATE and TSPGECET. Five courses are offered, including CAD/CAM/CAE, Computer Science, Structural Engineering, VLSI & Embedded Systems.\n*   **M.E.:** The yearly fee is ₹57,000. Two courses are offered: Mechanical (Cad/Cam) and ECE (Embedded Systems & VLSI Design).\n\n\nThe college was established in 1981 and is a private institution.  It has a campus size of 18 acres and a total faculty of 14.  The highest package offered during placements is 6 Lacs.  Admissions for B.Tech are based on TSEAMCET scores.  For M.Tech, admissions are through GATE or TSPGECET.  MBA admissions are based on TSICET scores.",
+      "audio": null
+    },
+    {
+      "query": "location of mvsr",
+      "response": "Maturi Venkata Subba Rao Engineering College is located in Nadergul, main Road Balapur, Ranga Reddy.",
+      "audio": "C:\\Users\\HP\\AppData\\Local\\Temp\\tmpa_gh6_lx.mp3"
+    }
+  ],
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  Admission to the B.Tech program is based on TSEAMCET scores.  M.Tech admissions consider GATE or TSPGECET scores.  MBA admissions require a bachelor's degree and a valid TSICET score.  Yearly fees range from ₹28,000 for MBA to ₹1,25,000 for B.Tech.",
+    "lang": "en"
+  },
+  {
+    "question": "tell about sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW), established in 2009, is a women's engineering college in Warangal, Telangana, India.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), TASK, NETRA, and more.  It boasts a 90% placement rate (as of 2021) and provides internship opportunities.  The institute also offers lateral entry for BE courses for diploma holders.  Key facilities include well-equipped classrooms, labs, a library, computer centers, Wi-Fi, hostel, cafeteria, and sports facilities.  The highest placement package offered is ₹10 LPA, with an average of ₹3.50 LPA.",
+    "lang": "en"
+  },
+  {
+    "question": "location ofmvsr",
+    "answer": "మాతూరి వెంకట సుబ్బా రావు (ఎంవిఎస్ఆర్) ఇంజనీరింగ్ కళాశాల నెలాంగనలోని హైదరాబాద్, రాంగా రెడ్డి, మెయిన్ రోడ్ బాలపూర్, మెయిన్ రోడ్ బాలపూర్, రంగా రెడ్డిలో ఉంది.",
+    "lang": "te"
+  },
+  {
+    "question": "Tell me about MVSR.",
+    "answer": "MVSR Engineering College, Hyderabad, offers B.Tech, M.Tech, M.E., and MBA programs.  B.Tech admissions are based on TSEAMCET scores, M.Tech on GATE or TSPGECET, and MBA on TSICET.  Fees for B.Tech are ₹1,25,000 yearly, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000. Placements are decent, with a 70% placement rate and an average salary of ₹5-6 LPA, going up to ₹20-40 LPA.  The campus is 18 acres with hostels available. Faculty are generally well-qualified and supportive.  The college also hosts a 3-day fest called Sangamam and has various student clubs.",
+    "lang": "en"
+  },
+  {
+    "question": "fests in mvsr",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  Admission to the B.Tech program is based on TSEAMCET scores.  M.Tech admissions require GATE or TSPGECET scores.  MBA admissions are based on TSICET scores.  The annual fees range from ₹28,000 for MBA to ₹1,25,000 for B.Tech.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  Admission to the B.Tech program is based on TSEAMCET scores.  M.Tech admissions accept GATE and TSPGECET scores.  MBA admissions are based on TSICET scores.  The annual fees range from ₹28,000 to ₹1,25,000 depending on the program.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSRengineering కళాశాల, హైదరాబాద్, B.Tech, M.Tech, MBA మరియు M.E. ప్రోగ్రామ్‌లను అందిస్తుంది.  B.Tech ప్రోగ్రామ్‌లో ప్రవేశం TSEAMCET స్కోర్‌లపై ఆధారపడి ఉంటుంది.  M.Tech ప్రవేశాలకు గేట్ లేదా TSPGecet స్కోర్లు అవసరం.  MBA ప్రవేశాలు TSICET స్కోర్‌లపై ఆధారపడి ఉంటాయి.  వార్షిక రుసుము MBA కి ₹ 28,000 నుండి B.Tech కు 25 1,25,000 వరకు ఉంటుంది.",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "అందించిన సందర్భం ఆధారంగా, తెలంగాణలోని హైదరాబాద్‌లో ఉన్న MVSR ఇంజనీరింగ్ కళాశాల ఈ క్రింది కోర్సులను అందిస్తుంది:\n\n*** B.Tech: ** ఫీజులు సంవత్సరానికి 25 1,25,000. అంగీకరించబడిన ప్రవేశ పరీక్ష TSEAMCET.  సివిల్, మెకానికల్, కంప్యూటర్ సైన్స్, ఇన్ఫర్మేషన్ టెక్నాలజీ మరియు పార్శ్వ ప్రవేశ ఎంపికలతో సహా ఎనిమిది కోర్సులు అందించబడతాయి.\n*** MBA: ** ఫీజులు సంవత్సరానికి, 000 28,000. అంగీకరించబడిన ప్రవేశ పరీక్ష సిసెట్. మూడు కోర్సులు అందించబడతాయి: ఫైనాన్స్, మార్కెటింగ్ మరియు మానవ వనరులు.\n*** M.Tech: ** ఫీజులు సంవత్సరానికి, 000 85,000. అంగీకరించిన ప్రవేశ పరీక్షలు గేట్ మరియు టిఎస్‌పిజ్‌సెట్. CAD/CAM/CAE, కంప్యూటర్ సైన్స్, స్ట్రక్చరల్ ఇంజనీరింగ్ మరియు VLSI & ఎంబెడెడ్ సిస్టమ్‌లతో సహా ఐదు కోర్సులు అందించబడతాయి.\n*** M.E .: ** ఫీజులు సంవత్సరానికి, 000 57,000. రెండు కోర్సులు అందించబడతాయి: మెకానికల్ (CAD/CAM) మరియు ECE (ఎంబెడెడ్ సిస్టమ్స్ & VLSI డిజైన్).",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "प्रदान किए गए संदर्भ के आधार पर, हैदराबाद, तेलंगाना में स्थित MVSR इंजीनियरिंग कॉलेज, B.Tech, M.Tech, MBA और M.E. कार्यक्रम प्रदान करता है।  B.Tech कार्यक्रम में प्रवेश TseamCet स्कोर पर आधारित है।  M.Tech के लिए, कॉलेज गेट और TSPGECET स्कोर को स्वीकार करता है।  एमबीए प्रवेश TSICET परीक्षा के माध्यम से हैं।  वार्षिक शुल्क एमबीए के लिए ₹ 28,000 से लेकर B.Tech के लिए ₹ 1,25,000 तक है।",
+    "lang": "hi"
+  },
+  {
+    "question": "MVSR.",
+    "answer": "MVSR Engineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  Admission to the B.Tech program is based on TSEAMCET scores.  M.Tech admissions accept GATE and TSPGECET scores. MBA admissions are based on TSICET scores.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  Admission to the B.Tech program is based on TSEAMCET scores.  M.Tech admissions consider GATE or TSPGECET scores. MBA admissions require a bachelor's degree and a valid TSICET score.  M.E. admissions require a bachelor's degree and a valid GATE score.  The annual fees range from ₹28,000 for MBA to ₹1,25,000 for B.Tech.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  Admission to the B.Tech program is based on TSEAMCET scores.  M.Tech admissions require GATE or TSPGECET scores. MBA admissions are through the TSICET exam.  The annual fees range from ₹28,000 for MBA to ₹1,25,000 for B.Tech.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "Based on the context provided, here's what I can tell you about MVSR Engineering College (also referred to as Maturi Venkata Subba Rao Engineering College or MVSREngineeringCollege):\n\n**General Information:**\n\n* **Type:** Private\n* **Established:** 1981\n* **Location:** Nadergul, main Road Balapur, Ranga Reddy, Hyderabad, Telangana.\n* **Campus Size:** 18 Acres\n* **Accreditation:** NBA, ISO, AICTE\n* **Hostel:** Yes\n* **Overall Rating:** 4.5 (based on 15 reviews)\n\n**Courses Offered:**\n\n* **B.Tech (Bachelor of Technology):**\n    * Fees: ₹1,25,000 per year\n    * Duration: 3-4 years\n    * Entrance Exam: TSEAMCET\n    * Specializations: Civil Engineering, Mechanical Engineering, Computer Science Engineering, Information Technology, and others (8 courses total, including lateral entry option).\n* **M.Tech (Master of Technology):**\n    * Fees: ₹85,000 per year\n    * Duration: 2 years\n    * Entrance Exam: GATE, TSPGECET\n    * Specializations: CAD/CAM/CAE, Computer Science, Structural Engineering, VLSI & Embedded Systems, and others (5 courses total).\n* **MBA (Master of Business Administration):**\n    * Fees: ₹28,000 per year\n    * Duration: 2 years\n    * Entrance Exam: TSICET\n    * Specializations: Finance, Marketing, Human Resources (3 courses total).\n* **M.E. (Master of Engineering):**\n    * Fees: ₹57,000 per year\n    * Duration: 2 years\n    * Specializations: Mechanical (CAD/CAM), ECE (Embedded Systems & VLSI Design) (2 courses total).\n\n**Placements:**\n\n* Median Salary: 5.25 Lacs\n* Top Recruiters: Amazon, Deloitte, Accenture, LTIMindtree, Infosys, Cognizant, Mu Sigma, SAP, Hyundai, Wipro, Persistent, Capgemini, Polaris.\n\n**Admissions:**\n\n* Admissions are based on entrance exam scores (TSEAMCET for B.Tech, GATE/TSPGECET for M.Tech, TSICET for MBA).\n* There are quotas for admissions (Convenor's Quota/Category A - 70% of intake, Category B - 30% of intake).  More information on admission procedures can be found within the provided text.\n\n\n**Reviews:**\n\nThe provided text includes several student reviews, offering insights into the college environment, faculty, and overall experience.  These reviews mention aspects like the open gate system, faculty qualifications, and focus on studies.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr college",
+    "answer": "MVSREngineering College, located in Hyderabad, Telangana, offers the following courses:\n\n*   **B.Tech:**  The yearly fee is ₹1,25,000. Accepted entrance exam is TSEAMCET.  Eight courses are offered, including Civil, Mechanical, Computer Science, Information Technology, and others.\n*   **MBA:** The yearly fee is ₹28,000. Accepted entrance exam is TSICET. Three courses are offered: Finance, Marketing, and Human Resources.\n*   **M.Tech:** The yearly fee is ₹85,000. Accepted entrance exams are GATE and TSPGECET. Five courses are offered, including CAD/CAM/CAE, Computer Science, Structural Engineering, VLSI & Embedded Systems.\n*   **M.E.:** The yearly fee is ₹57,000. Two courses are offered: Mechanical (Cad/Cam) and ECE (Embedded Systems & VLSI Design).",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Based on the context provided, SRITW stands for **Sumathi Reddy Institute of Technology for Women**.  It is located in Warangal, Telangana, India.  The institute offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  It also offers a lateral entry program for B.Tech courses.  For further details like cutoff ranks, fee structure, faculty, etc., please refer to the detailed information provided in the context.",
+    "lang": "en"
+  },
+  {
+    "question": "location of mvsr",
+    "answer": "Maturi Venkata Subba Rao (MVSR) Engineering College is located in Nadergul, main Road Balapur, Ranga Reddy, Hyderabad, Telangana.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "అందించిన సందర్భం ఆధారంగా, నేను CBIT (చైతన్య భరతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ) గురించి సేకరించగలిగేది ఇక్కడ ఉంది:\n\n** నియామకాలు: **\n\n* CBIT లో 1994 లో స్థాపించబడిన శిక్షణ మరియు ప్లేస్‌మెంట్ (టి అండ్ పి) సెల్ ఉంది.\n* 2020 ప్లేస్‌మెంట్ డ్రైవ్‌లో:\n    * 75 కంపెనీలు పాల్గొన్నాయి.\n    * 524 ఆఫర్లు తయారు చేయబడ్డాయి.\n    * 982 లో 408 మంది విద్యార్థులను ఉంచారు.\n* ప్లేస్‌మెంట్ శాతం: 82%\n* అత్యధిక సిటిసి: రూ. 14 LPA\n* సగటు CTC: రూ. 8 LPA\n.\n\n** ts eamcet (tseapcet) 2024 (expected హించిన) కోసం కటాఫ్: **\n\n* 2024 కొరకు కటాఫ్ సమాచారాన్ని తెలంగాణ స్టేట్ కౌన్సిల్ ఆఫ్ హయ్యర్ ఎడ్యుకేషన్ (టిఎస్‌చే) విడుదల చేస్తుంది.\n* మునుపటి సంవత్సరాల పోకడల ఆధారంగా సందర్భంలో expected హించిన కటాఫ్‌లు అందించబడతాయి.  వీటిని బ్రాంచ్, లింగం మరియు వర్గం (OC, EWS, SC, ST) ద్వారా వర్గీకరించారు.  ఉదాహరణకు, ఓపెన్ కేటగిరీలో అబ్బాయిల కోసం కంప్యూటర్ సైన్స్ మరియు ఇంజనీరింగ్ కోసం ఆశించిన కటాఫ్ 2938-2948.  Cutoff హించిన కటాఫ్‌ల పూర్తి పట్టిక సందర్భంలో లభిస్తుంది.\n\n** కటాఫ్ పోకడలు: **\n\n* 2021-2023 నుండి కటాఫ్ పోకడల విశ్లేషణ అందించబడింది, వివిధ శాఖలకు ముగింపు ర్యాంకులు ఎలా మారిపోయాయో చూపిస్తుంది.  ఈ డేటాను లింగం మరియు వర్గం కూడా వర్గీకరించారు.\n\n** కటాఫ్ 2023: **\n\n* TSeamcet 2023 కౌన్సెలింగ్ యొక్క మొదటి దశ నుండి కటాఫ్ ర్యాంకులు అందించబడతాయి, లింగం మరియు వర్గం ద్వారా వేరు చేయబడతాయి.\n\n** NIRF ర్యాంకింగ్: **\n\n* 2024: 151\n* 2022: 166\n* 2021: 133\n\n** మొత్తం రేటింగ్: **\n\n* 4.4 (17 సమీక్షల ఆధారంగా)\n\n** విద్యార్థుల సమీక్షలు (ఇష్టాలు): **\n\n* మంచి నియామకాలు\n* సహేతుకమైన రుసుము నిర్మాణం\n* మంచి హాస్టల్ ఫుడ్\n* అనుభవజ్ఞులైన మరియు అర్హత కలిగిన అధ్యాపకులు\n* ప్రయోజనకరమైన కోర్సు పాఠ్యాంశాలు\n\n** విద్యార్థుల సమీక్షలు (అయిష్టాలు): **\n\n* రిమోట్ స్థానం\n* కఠినమైన ప్రవేశ పరీక్ష\n* సగటు ప్యాకేజీ చాలా ఎక్కువ కాదు\n* పెద్ద తరగతి పరిమాణాలు\n* కళాశాలకు ప్రత్యేక ప్రవేశ పరీక్ష లేదు\n\n\nమీకు CBIT గురించి ఇతర నిర్దిష్ట ప్రశ్నలు ఉంటే, దయచేసి అడగండి!",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  Admission to the B.Tech program is based on TSEAMCET scores.  M.Tech admissions consider GATE or TSPGECET scores. MBA admissions require a bachelor's degree and a valid TSICET score.  M.E. admissions require a bachelor's degree and a valid GATE score.  The annual fees range from ₹28,000 to ₹1,25,000 depending on the program.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "అందించిన సందర్భం ఆధారంగా, నేను CBIT (చైతన్య భరతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ) గురించి సేకరించగలిగేది ఇక్కడ ఉంది:\n\n** చైతన్య భరతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ హైదరాబాద్ ప్లేస్‌మెంట్స్: **\n\n* CBIT లో 1994 లో స్థాపించబడిన శిక్షణ మరియు ప్లేస్‌మెంట్ (టి అండ్ పి) సెల్ ఉంది.\n* 2020 ప్లేస్‌మెంట్ డ్రైవ్‌లో, 75 కంపెనీలు సందర్శించాయి, చేరిన 982 మంది విద్యార్థులలో 408 మంది విద్యార్థులకు 524 ఆఫర్లు ఇచ్చాయి.\n* ప్లేస్‌మెంట్ శాతం: 82%\n* అత్యధిక CTC: RS 14 LPA\n* సగటు CTC: రూ .8 LPA\n.\n\n.\n\nఅందించిన కటాఫ్ సమాచారం మునుపటి సంవత్సరాల పోకడల ఆధారంగా ఆశించిన కటాఫ్‌లకు సంబంధించినది.  వివిధ వర్గాలలో (OC, EWS, SC, ST) మగ మరియు ఆడ అభ్యర్థుల కోసం వివిధ B.Tech కోర్సుల కోసం ప్రారంభ మరియు ముగింపు ర్యాంకులు ఇందులో ఉన్నాయి.  వాస్తవ కటాఫ్‌లను తెలంగాణ స్టేట్ కౌన్సిల్ ఆఫ్ హయ్యర్ ఎడ్యుకేషన్ (టిఎస్‌చే) విడుదల చేస్తుంది.  ఈ సందర్భంలో వివిధ శాఖల కోసం 2021-2023 నుండి కటాఫ్ పోకడలు కూడా ఉన్నాయి.\n\n** CBIT హైదరాబాద్ కటాఫ్ 2023: **\n\nTSEAMCET 2023 యొక్క మొదటి దశ నుండి కటాఫ్ ర్యాంకులు వివిధ వర్గాలలోని పురుష మరియు ఆడ అభ్యర్థులకు అందించబడతాయి.\n\n** CBIT హైదరాబాద్ NIRF ర్యాంకింగ్: **\n\n* 2024: 151\n* 2022: 166\n* 2021: 133\n\n** CBIT హైదరాబాద్ మొత్తం రేటింగ్ (విద్యార్థుల సమీక్షలు): **\n\n* మొత్తం: 4.4/5\n* మౌలిక సదుపాయాలు: 4.1/5\n* ప్లేస్‌మెంట్: 4.3/5\n* హాస్టల్: 3.7/5\n* అధ్యాపకులు: 4.3/5\n\n** విద్యార్థుల అభిప్రాయాలు (ఇష్టాలు): **\n\n* మంచి నియామకాలు\n* సహేతుకమైన రుసుము నిర్మాణం\n* మంచి హాస్టల్ ఫుడ్\n* అనుభవజ్ఞులైన మరియు అర్హత కలిగిన అధ్యాపకులు\n* ప్రయోజనకరమైన కోర్సు పాఠ్యాంశాలు\n\n** విద్యార్థుల అభిప్రాయాలు (అయిష్టాలు): **\n\n* రిమోట్ స్థానం\n* కఠినమైన ప్రవేశ పరీక్ష\n* సగటు ప్యాకేజీ చాలా ఎక్కువ కాదు\n* పెద్ద తరగతి పరిమాణాలు\n* కళాశాలకు ప్రత్యేక ప్రవేశ పరీక్ష లేదు.",
+    "lang": "te"
+  },
+  {
+    "question": "cbit",
+    "answer": "చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ (సిబిటి) కు దరఖాస్తు చేసుకున్న అభ్యర్థులు అధికారిక పరీక్ష పోర్టల్‌కు వెళ్లి దరఖాస్తు బటన్ క్లిక్ చేయాలి.  అప్పుడు వారు తప్పనిసరిగా నమోదు చేసి అవసరమైన సమాచారాన్ని పూరించాలి. తరువాత, వారు వారి ఫోటో, సంతకం, బొటనవేలు ముద్ర మరియు ధృవపత్రాలు వంటి ఇతర ముఖ్యమైన పత్రాలను అప్‌లోడ్ చేయాలి. చివరగా, అభ్యర్థులు ఫారమ్‌ను పూర్తి చేసి, అవసరమైన ఫీజులను చెల్లించాలి.",
+    "lang": "te"
+  },
+  {
+    "question": "tell about cbit college",
+    "answer": "చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ హైదరాబాద్ (సిబిటి) అనేది ఆల్ ఇండియా కౌన్సిల్ ఫర్ టెక్నికల్ ఎడ్యుకేషన్ (ఎఐసిటిఇ) చేత ఆమోదించబడిన స్వయంప్రతిపత్త సంస్థ మరియు ఉస్మానియా విశ్వవిద్యాలయం గుర్తింపు పొందింది.  1979 లో స్థాపించబడిన, CBIT డిప్లొమా ఇన్ ఇంజనీరింగ్, బి.టెక్ వంటి అండర్గ్రాడ్యుయేట్ ప్రోగ్రామ్‌లను, అలాగే వివిధ ప్రత్యేకతలలో M.Tech, MBA మరియు MCA వంటి పోస్ట్ గ్రాడ్యుయేట్ ప్రోగ్రామ్‌లను అందిస్తుంది.  B.Tech ప్రవేశాలు TSEAPCET/JEE ప్రధాన స్కోర్‌లపై ఆధారపడి ఉంటాయి, TSPGecet లేదా గేట్ స్కోర్‌లపై M.Tech ప్రవేశాలు మరియు MBA మరియు MCA ప్రవేశాలకు TSICET స్కోర్‌లు అవసరం.  ఈ సంస్థలో ప్లేస్‌మెంట్ సెల్ ఉంది, ఇది రిక్రూట్‌మెంట్ డ్రైవ్‌లు మరియు ఉద్యోగ సంబంధిత శిక్షణా కార్యక్రమాలను నిర్వహిస్తుంది.  క్యాంపస్ సౌకర్యాలలో లైబ్రరీ, క్యాంటీన్, స్పోర్ట్స్ కాంప్లెక్స్, హాస్టల్స్ మరియు కంప్యూటర్ ల్యాబ్‌లు ఉన్నాయి.  CBIT తెలంగాణలోని హైదరాబాద్‌లోని గాండిపేట్‌లో ఉంది.",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET scores. MBA admissions are through TSICET.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "చైతన్య భారతి ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ (సిబిటి) కు దరఖాస్తు చేసుకున్న అభ్యర్థులు అధికారిక పరీక్ష పోర్టల్‌కు వెళ్లి దరఖాస్తు బటన్ క్లిక్ చేయాలి.  అప్పుడు వారు తప్పనిసరిగా నమోదు చేసి అవసరమైన సమాచారాన్ని పూరించాలి.  తరువాత, వారు వారి ఫోటో, సంతకం, బొటనవేలు ముద్ర మరియు ఇతర ముఖ్యమైన పత్రాలను (సర్టిఫికెట్లు, వర్తిస్తే కేటగిరీ సర్టిఫికేట్ మొదలైనవి) అప్‌లోడ్ చేయాలి. చివరగా, అభ్యర్థులు ఫారమ్‌ను పూరించాలి మరియు అవసరమైన ఫీజులను చెల్లించాలి.",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET scores. MBA admissions require a bachelor's degree and TSICET scores.  M.E. admissions require a bachelor's degree and GATE scores.  Fees range from ₹28,000 to ₹1,25,000 per year depending on the program.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "fests in mvsr",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is a women's engineering college in Warangal, Telangana, established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has a NewGen Innovation & Entrepreneurship Development Centre and a Technology Business Incubator (TBI).  The college is affiliated with JNTU Hyderabad and approved by AICTE, with NBA-accredited programs.  It boasts a 90% placement rate.  The faculty comprises 10 members.  Hostel fees range from ₹85,000 to ₹1,05,000 per year, depending on occupancy and AC.  The first-year B.Tech fee is ₹88,000, while lateral entry is ₹85,000.  The highest placement package is ₹10 LPA, and the average is ₹3.50 LPA.  Admissions are based on graduation percentage and entrance exam scores.  Applications are offline.  Collaborations include Amazon Web Services (AWS), CISCO Network Academy, TASK, NETRA, AI Deep Learning, NPTEL Swayam, WEHUB, and IEEE.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr sangamam",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "top engineering colleges in telangana",
+    "answer": "The context mentions several engineering colleges in Telangana, including:\n\nGeethanjali College of Engineering and Technology, Keesara\nSphoorthy Engineering College (SEC), Hyderabad\nVidya Jyothi Institute of Technology, Hyderabad\nSeveral other colleges affiliated with Jawaharlal Nehru Technological University (JNTU), Hyderabad\nA list of colleges with addresses and district is also provided, including NIT Warangal, Sreenidhi Institute of Science and Technology, VNR Vignana Jyothi Institute of Engineering and Technology, and others.  The context also mentions rankings from sources like The Times of India and NIRF, which can be used to infer top colleges. However, the context doesn't explicitly state which colleges are the \"top\" engineering colleges in Telangana.",
+    "lang": "en"
+  },
+  {
+    "question": "What’s the quality of practical training in these  colleges?",
+    "answer": "IIITHyderabad and NIT Warangal have top-notch labs for hands-on work—think robotics or circuit design. Private colleges like IARE focus on industry projects too—check lab facilities during visits. It’s key for job-ready skills!",
+    "lang": "en"
+  },
+  {
+    "question": "vmtw",
+    "answer": "Vignana's Institute of Management & Technology for Women (VMTW) is located in Kondapur(V), Ghatkesar(M), Medchal(D), Telangana, India. Established in 2008 by Dr. L Rathaiah, Chairman of Vignana Group Institutions, it aims to empower rural women through quality education. VMTW is affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH), approved by the All India Council for Technical Education (AICTE), and accredited by NBA (CSE & ECE courses) until June 2025.  It offers undergraduate and postgraduate programs in engineering.  The campus is 5 acres and has modern facilities including well-equipped laboratories, a library, spacious classrooms, and a placement cell.  VMTW also has a hostel and encourages extracurricular activities.",
+    "lang": "en"
+  },
+  {
+    "question": "how do i get into mvsr college",
+    "answer": "To pursue a B.Tech. at MVSR Engineering College, you need to qualify the TSEAMCET exam.  For M.Tech, the college accepts GATE and TSPGECET scores.  If you are interested in the MBA program, you must take the TSICET exam.",
+    "lang": "en"
+  },
+  {
+    "question": "does mvsr have a hostel",
+    "answer": "Yes, MVSR has hostels for boys located about 1km from the campus.",
+    "lang": "en"
+  },
+  {
+    "question": "is ragging a big deal in mvsr",
+    "answer": "No, ragging is not a thing at MVSR—they’ve got strict rules and a chill vibe. Seniors might tease a bit, but it’s all fun. If anything’s off, the college fixes it fast—no stress!",
+    "lang": "en"
+  },
+  {
+    "question": "location",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET scores. MBA admissions are through TSICET.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "location",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "jntuh",
+    "answer": "జవహర్లాల్ నెహ్రూ టెక్నలాజికల్ యూనివర్శిటీ హైదరాబాద్ (జెఎన్‌టియుహెచ్) 1972 లో స్థాపించబడింది. హైదరాబాద్‌లోని కుకట్‌పల్లిలో 89 ఎకరాల క్యాంపస్‌లో ఉంది, దీనికి హైదరాబాద్, కొండగటు (జగిత్యల్), కొండెగట్టు మరియు కొండెరెంటూన్ (మధ్యబ్యాడ్యూడ్) ఆండ్టన్పూర్. క్యాంపస్.  JNTUH B.Tech, B.pharma, M.Tech, M.pharma, M.Sc, MCA, మరియు MBA ప్రోగ్రామ్‌లను అందిస్తుంది, వీటిలో ఐదేళ్ల ఇంటిగ్రేటెడ్ డ్యూయల్-డిగ్రీ మాస్టర్స్ ప్రోగ్రామ్‌లతో సహా. ప్రవేశాలు TSEAMCET, TSECET, JEE MAIN, JEE అడ్వాన్స్‌డ్ మరియు గేట్ వంటి ప్రవేశ పరీక్షలపై ఆధారపడి ఉంటాయి, తరువాత కౌన్సెలింగ్.  విశ్వవిద్యాలయం M.Sc, పార్ట్ టైమ్ M.Tech./m.sc/mba/pgdnt/external ph.D./m.phil./m.s కోసం తన సొంత ప్రవేశ పరీక్షలను నిర్వహిస్తుంది. పరిశోధన & పి.జి. డిప్లొమా కార్యక్రమాలు.  ప్లేస్‌మెంట్‌లు బలంగా ఉన్నాయి, B.Tech కొరకు INR 6.25 LPA యొక్క మధ్యస్థ ప్యాకేజీ మరియు M.Tech గ్రాడ్యుయేట్ల కోసం INR 8 LPA (NIRF నివేదిక 2024 ప్రకారం).  అగ్రశ్రేణి రిక్రూటర్లలో కామ్‌వాల్ట్, అమెజాన్, ఇన్వెస్కో, మాథర్‌వర్క్స్ మరియు మరిన్ని ఉన్నాయి.  JNTUH లో సెంట్రల్ లైబ్రరీ, ఆడిటోరియంలు, సెమినార్ హాల్స్, హాస్టల్స్, క్యాంటీన్, స్పోర్ట్స్ కాంప్లెక్స్ మరియు ఎంటర్‌ప్రెన్యూర్‌షిప్ డెవలప్‌మెంట్ సెల్ ఉన్నాయి.",
+    "lang": "te"
+  },
+  {
+    "question": "nit warangal",
+    "answer": "इलेक्ट्रिकल एंड इलेक्ट्रॉनिक्स इंजीनियरिंग में बीटेक के लिए नाइट वारंगल कटऑफ रैंक, राउंड 1, 2018:\n\n** सामान्य श्रेणी: **\nएपी-महिला-केवल: 7999-7999\nएपी-लिंग-तटस्थ: 6192-5168\nएचएस-महिला-केवल: 6777-5223\nएचएस-लिंग-तटस्थ: 6809-4361\nएचएस-पीडब्ल्यूडी-लिंग-तटस्थ: 224-131\nओएस-महिला-केवल: 6940-5882\nओएस-लिंग-तटस्थ: 4811-3235\nOS-PWD-GENDER-NEUTRAL: 157-132\n\n** OBC-NCL श्रेणी: **\nएपी-महिला-केवल: 2869-2869\nएपी-लिंग-तटस्थ: 2318-2106\nएचएस-महिला-केवल: 2671-2120\nएचएस-लिंग-तटस्थ: 1992-1452\nएचएस-पीडब्ल्यूडी-लिंग-तटस्थ: 167-167\nओएस-महिला-केवल: 2700-2287\nओएस-लिंग-तटस्थ: 1778-1327\nOS-PWD-GENDER-NEUTRAL: 42-42\n\n** एससी श्रेणी: **\nएपी-लिंग-तटस्थ: 1179-1179\nएचएस-महिला-केवल: 973-773\nएचएस-लिंग-तटस्थ: 1283-836\nएचएस-पीडब्ल्यूडी-लिंग-तटस्थ: 151-151\nओएस-महिला-केवल: 622-622\nओएस-लिंग-तटस्थ: 818-590\nOS-PWD-GENDER-NEUTRAL: 50-50\n\n** सेंट श्रेणी: **\nएचएस-महिला-केवल: 449-449\nएचएस-लिंग-तटस्थ: 263-139\nओएस-महिला-केवल: 384-384\nओएस-लिंग-तटस्थ: 337-292\nOS-PWD-GENDER-NEUTRAL: 28-28",
+    "lang": "hi"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET scores. MBA admissions are through the TSICET exam.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information.  Next, they must upload their photo, signature, thumb impression, and other essential documents such as certificates. Finally, candidates must complete the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is a women's engineering college in Warangal, Telangana, established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), CISCO, TASK, NETRA, AI Deep Learning, NPTEL Swayam, and WEHUB.  The college offers internships, has a dedicated placement cell, and provides hostel facilities.  Admissions are based on graduation percentage and entrance exam scores.  The college also has a Technology Business Incubator (TBI) sponsored by MSME and a NewGen Innovation Entrepreneurship Development Centre sanctioned by NSTEDB, DST.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions utilize TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr college",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  For B.Tech, the accepted entrance exam is TSEAMCET.  M.Tech accepts GATE and TSPGECET.  MBA admissions are based on the TSICET exam.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.  They offer eight B.Tech courses, five M.Tech courses, three MBA courses, and two M.E. courses.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr college",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  For B.Tech, the accepted entrance exam is TSEAMCET.  M.Tech accepts GATE and TSPGECET.  MBA admissions are based on the TSICET exam.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information.  Next, they must upload their photo, signature, thumb impression, and other essential documents (certificates, category certificate if applicable, etc.). Finally, candidates must fill out the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is a women's engineering college in Warangal, Telangana, established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), CISCO, TASK, NETRA, AI Deep Learning, NPTEL Swayam, and WEHUB.  It also hosts a Technology Business Incubator (TBI) and a NewGen Innovation Entrepreneurship Development Centre.  The college provides internship opportunities, has a dedicated placement cell, and offers hostel facilities.  The B.Tech fee is ₹88,000 per year and the hostel fee ranges from ₹85,000 to ₹105,000 per year depending on the type of accommodation.  Lateral entry to B.Tech is available through ECET, and 30% of B.Tech seats are reserved under management quota.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information. Next, they must upload their photo, signature, thumb impression, and other essential documents, such as certificates. Finally, candidates must complete the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is a women's engineering college in Warangal, Telangana, established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), CISCO, TASK, NETRA, AI Deep Learning, NPTEL Swayam, and WEHUB.  It also hosts a Technology Business Incubator (TBI) sponsored by MSME and a NewGen Innovation Entrepreneurship Development Centre sanctioned by NSTEDB, DST.  The college boasts a 90% placement rate and offers various skill development programs.  Admissions are based on graduation percentage and entrance exam scores.  The first-year B.Tech fee is ₹88,000, while the lateral entry fee is ₹85,000.  Hostel fees range from ₹85,000 to ₹1,05,000 per year depending on occupancy and AC/non-AC options.  The college provides various academic facilities, infrastructure, and extracurricular activities.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information. Next, candidates must upload their photo, signature, thumb impression, and other essential documents such as certificates. Finally, candidates must complete the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information. Next, they must upload their photo, signature, thumb impression, and other essential documents, such as certificates. Finally, candidates must fill out the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr college",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  For B.Tech, the accepted entrance exam is TSEAMCET.  M.Tech accepts GATE and TSPGECET.  MBA admissions are based on the TSICET exam.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information.  Next, they must upload their photo, signature, thumb impression, and other essential documents (such as certificates and category certificates, if applicable). Finally, candidates must complete the form and pay the required application fee.",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is a women's engineering college in Warangal, Telangana, established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), CISCO, TASK, NETRA, AI Deep Learning, NPTEL Swayam, and WEHUB.  The college offers internships, has a dedicated placement cell, and boasts a 90% placement rate in 2021.  Lateral entry is available for B.Tech courses through the ECET exam.  30% of B.Tech seats are reserved under management quota.  Hostel facilities are available with varying occupancy and AC options.  The institute also has a NewGen Innovation & Entrepreneurship Development Centre and a Technology Business Incubator.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "iit hyderabad",
+    "answer": "IIT Hyderabad offers 63 courses across Ph.D, PG, and UG programs.  These include 14 B.Tech courses and 2 B.Des courses at the UG level. At the PG level, there are 22 M.Tech courses and 6 M.Phil courses.  Admissions are based on various entrance exams including UCEED, CEED, JEE Main, JEE Advanced, GATE, and IIT JAM.  The fee structure ranges from Rs. 2,00,000 to Rs. 8,00,000 for B.Tech, Rs. 50,000 to Rs. 11,00,000 for M.Tech, Rs. 10,000 for M.Phil, Rs. 12,000 for MSc, Rs. 10,60,000 for M.Des, and Rs. 66,800 to Rs. 8,00,000 for PhD.  IIT Hyderabad offers three scholarships: Merit-cum-Means (MCM) for General and OBC students, SC/ST scholarships, and Institute Free Studentship.",
+    "lang": "en"
+  },
+  {
+    "question": "iit hyderabad",
+    "answer": "IIT Hyderabad offers 63 courses across PhD, PG, and UG programs.  These include 14 B.Tech courses and 2 B.Des courses at the UG level. At the PG level, there are 22 M.Tech courses and 6 M.Phil courses.  Admissions are based on various entrance exams including UCEED, CEED, JEE Main, JEE Advanced, GATE, and IIT JAM.  The fee structure ranges from Rs. 2,00,000 to Rs. 8,00,000 for B.Tech, Rs. 50,000 to Rs. 11,00,000 for M.Tech, Rs. 10,000 for M.Phil, Rs. 12,000 for MSc, Rs. 10,60,000 for M.Des, and Rs. 66,800 to Rs. 8,00,000 for PhD.  IIT Hyderabad offers three scholarships: Merit-cum-Means (MCM) for General and OBC students, SC/ST scholarships, and Institute Free Studentship.",
+    "lang": "en"
+  },
+  {
+    "question": "mrec",
+    "answer": "Malla Reddy Engineering College (Autonomous) is a private college established in 2002, accredited by NAAC with an 'A++' Grade, and affiliated with Jawaharlal Nehru Technological University, Hyderabad.  It offers undergraduate B.Tech programs in seven specializations and postgraduate M.Tech and MBA programs.  Admission to B.Tech is through TSEAMCET or JEE Main scores, while M.Tech admissions are based on TSPGECET or GATE scores, and MBA admissions are through TS-ICET. The college has a strong emphasis on industry interaction, research and development, and entrepreneurship.  It boasts state-of-the-art infrastructure, including well-equipped labs in association with industry giants like IBM, TCS, HP, and Cisco.  Students are trained in emerging technologies like Google Cloud, Salesforce, and Red Hat Linux.  The college also offers value-added courses and training in soft skills, quantitative aptitude, and coding.  Placements are robust, with over 250 recruiters participating in the 2021-22 placement drive.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  For B.Tech, the entrance exam accepted is TSEAMCET. For M.Tech, accepted exams are GATE and TSPGECET.  For MBA, the entrance exam is TSICET.  The yearly fees for B.Tech are ₹1,25,000, M.Tech ₹85,000, MBA ₹28,000, and M.E. ₹57,000.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  Fees range from ₹28,000 to ₹1,25,000 per year depending on the program.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSRengineering కళాశాల B.Tech, M.Tech, MBA, మరియు M.E. ప్రోగ్రామ్‌లను అందిస్తుంది.  B.Tech ప్రవేశాలు TSEAMCET స్కోర్‌లపై ఆధారపడి ఉంటాయి. M.Tech గేట్ మరియు Tspgecet ను అంగీకరిస్తుంది. MBA ప్రవేశాలు TSICET స్కోర్‌లను ఉపయోగిస్తాయి.  ఈ కార్యక్రమాన్ని బట్టి ఫీజులు సంవత్సరానికి, 000 28,000 నుండి 25 1,25,000 వరకు ఉంటాయి.",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSRengineering కళాశాల B.Tech, M.Tech, MBA, మరియు M.E. ప్రోగ్రామ్‌లను అందిస్తుంది.  B.Tech ప్రవేశాలు TSEAMCET స్కోర్‌లపై ఆధారపడి ఉంటాయి. M.Tech గేట్ మరియు Tspgecet ని అంగీకరిస్తుంది. MBA ప్రవేశాలు TSICET స్కోర్‌లను ఉపయోగిస్తాయి.  వార్షిక ఫీజులు బి.టెక్‌కు 25 1,25,000, ఎం.టెక్‌కు, 000 85,000, ఎంబీఏకు, 000 28,000, మరియు ఎం.ఇ.",
+    "lang": "te"
+  },
+  {
+    "question": "placements at mvsr",
+    "answer": "The provided text details placement information for BVRIT Narsapur and CMR College of Engineering and Technology, along with admissions and other information for those colleges plus Bhoj Reddy Engineering College for Women and VNR VJIET.  It does not contain placement information for MVSR.\n\nEduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "give information about placements at mvsr",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "top 10 engineering colleges in telangana",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is located in Ananthasagar, Hasanparthy, Warangal, Telangana, India - 506371.  It was established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), CISCO Network Academy, TASK, NETRA, AI Deep Learning - Leading India.AI, NPTEL Swayam Local Chapter, WEHUB, and IEEE.  The institute also has a NewGen Innovation Entrepreneurship Development Centre and a Technology Business Incubator (TBI).  Admissions are based on graduation percentage and entrance exam scores.  In 2021, SRITW had a 90% campus placement rate.  The application process for lateral entry is through ECET.  30% of B.Tech seats are reserved under management quota.  Hostel fees range from ₹85,000 to ₹1,05,000 per year depending on the type of accommodation.",
+    "lang": "en"
+  },
+  {
+    "question": "placements in sritw",
+    "answer": "In 2021, SRITW had 90% campus placements.  The placement cell also organizes programs like Personality Development, Interpersonal communication skills, and Career Planning.  The highest package offered was ₹10 LPA, and the average package was ₹3.50 LPA.  Top companies that offer internships to SR University Warangal students include Amazon, Google, Microsoft, Intel, Cisco, Texas Instruments, Samsung, Sony, General Electric, Tata Motors, Mahindra & Mahindra, Bosch, Siemens, Deloitte, etc.",
+    "lang": "en"
+  },
+  {
+    "question": "placements in mvsr",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "list the top engineering colleges in telangana",
+    "answer": "The provided text lists many engineering colleges in Telangana, categorized by district.  It does not, however, specify which colleges are considered the \"top\" institutions.  Therefore, I cannot create a list of top colleges.",
+    "lang": "en"
+  },
+  {
+    "question": "top engineering colleges in each district",
+    "answer": "Ranga Reddy District: National Institute of Technology (NIT) Warangal, Sreenidhi Institute of Science and Technology (SNIST), VNR Vignana Jyothi Institute of Engineering and Technology, KGReddy College of Engineering and Technology, Annamacharya Institute of Technology and Sciences, BVRIT Hyderabad College of Engineering for Women, Guru Nanak Institutions Technical Campus, Maturi Venkata Subba Rao (MVSR) Engineering College, Sridevi Women’s Engineering College, JB Institute of Engineering and Technology (JBIET).\n\nSangareddy District: BVRIT Narsapur, JNTUH College of Engineering Sultanpur, GITAM University Hyderabad Campus, Ellenki College of Engineering and Technology.\n\nSiddipet District: Indur Institute of Engineering and Technology.\n\nSuryapet District: Aurora’s Engineering College.\n\nVikarabad District: No engineering colleges are currently reported in this district.\n\nWanaparthy District: KDR Government Polytechnic (offers diploma, no full-fledged B.Tech yet).\n\nWarangal District (including Hanamkonda): Kakatiya Institute of Technology and Science (KITS), Vaagdevi College of Engineering, SR Engineering College, JNTUH College of Engineering Manthani.\n\nYadadri Bhuvanagiri District: Aurora’s Technological and Research Institute.\n\n\nThe context also mentions Vivekananda Institute of Technology & Science in Karimnagar.  It lists several other colleges with their addresses and districts, but doesn't categorize them by district in a way that allows for a definitive \"top\" college list for each district beyond those initially listed.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr faculty",
+    "answer": "The provided text lists faculty members for departments at MVSREC, including:\n\nCivil Engineering: Dr. Marthi Kameswara Rao (HOD), Dr. Gumpalli Sreenivasa Rao, Dr. Regalla Sandhya Rani, Ramancharla Prashant Kumar, and Dr. Gundrathi Narendra Goud.\n\nComputer Science and Engineering: J. Prasanna Kumar (Professor & HOD).  His email is hod_cse@mvsrec.edu.in\n\nElectronics and Communication Engineering: Dr. G. Kanaka Durga (Professor & HOD). Her email is hod_ece@mvsrec.edu.in\n\nMechanical Engineering: Dr. M. Madhavi (Professor & HOD). Her email is hod_mech@mvsrec.edu.in, and her contact number is 9642043570.\n\nInformation Technology: Dr. K. Venu Gopal Rao (Professor & HOD). His email is hod_it@mvsrec.edu.in\n\nAutomobile Engineering: Dr. Gangaraju Srinivasa Sarma (HOD). His email is hod_auto@mvsrec.edu.in",
+    "lang": "en"
+  },
+  {
+    "question": "hey tell me about anurag university,kodad",
+    "answer": "The provided text mentions Anurag University located in Venkatapur, Ghatkesar, Medchal-Malkajgiri district in Hyderabad, Telangana, India. There is no mention of Anurag University, Kodad.  Therefore:\n\nEduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "what about anurag clg",
+    "answer": "Anurag University offers UG, PG, and doctoral programs in multiple streams like Engineering, Pharmacy, Business Administration, and Agricultural Science.  Admissions are based on AnuragCET, TSEAMCET, TSPGCET, TSICET, or qualifying exam scores.  The university boasts a 10,000 student capacity, a 20:1 student-teacher ratio, and a faculty of around 321.  Hostel facilities are available for 1,600 students.  Placements focus heavily on engineering, with the highest package at INR 38.5 LPA and a median of INR 4.737 LPA.  The university has several industry partnerships, primarily benefiting engineering students.  While hostel facilities are well-regarded, there is a need for increased capacity.  Diversity statistics show 48% female students, but fewer students from outside Telangana.  Faculty is considered approachable and experienced.  The university is located in Ghatkesar, Hyderabad, and provides (expensive) bus services.  Overall, Anurag University is seen as improving, with good hostel facilities and faculty, but high fees and an emphasis on engineering placements over other programs.",
+    "lang": "en"
+  },
+  {
+    "question": "exact address",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr college",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  For B.Tech, the accepted entrance exam is TSEAMCET.  M.Tech accepts GATE and TSPGECET.  MBA admissions are based on the TSICET exam.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit college",
+    "answer": "Chaitanya Bharathi Institute of Technology (CBIT) Hyderabad is an autonomous institution approved by the All India Council for Technical Education (AICTE) and affiliated with Osmania University.  It offers Diploma, B.Tech, M.Tech, MBA, and MCA courses.  B.Tech admissions are based on TSEAPCET/JEE Main scores. M.Tech admissions require TSPGECET or GATE scores, while MBA and MCA admissions are based on TSICET scores.  The application process involves applying for the relevant entrance exam (TSEAMCET, PGECET/GATE, or ICET), then registering on the exam portal, filling out the required information, uploading documents (photo, signature, thumb impression, certificates), and paying the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit college",
+    "answer": "Chaitanya Bharathi Institute of Technology (CBIT) Hyderabad is an autonomous institution approved by the All India Council for Technical Education (AICTE) and affiliated with Osmania University.  It offers Diploma, B.Tech, M.Tech, MBA, and MCA courses.  B.Tech admissions are based on TSEAPCET/JEE Main scores. M.Tech admissions require TSPGECET or GATE scores, while MBA and MCA admissions are based on TSICET scores.  The fee structure ranges from ₹82,000-₹201,000 annually.  Campus facilities include a library, canteen, sports complex, hostels, and computer labs.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit college",
+    "answer": "Chaitanya Bharathi Institute of Technology (CBIT) Hyderabad is an autonomous institution approved by the All India Council for Technical Education (AICTE) and affiliated with Osmania University.  It offers Diploma, B.Tech, M.Tech, MBA, and MCA courses.  B.Tech admissions are based on TSEAPCET/JEE Main scores. M.Tech admissions require TSPGECET or GATE scores, while MBA and MCA admissions are based on TSICET scores.  The application process involves applying for the relevant entrance exam (TSEAMCET, PGECET/GATE, or ICET), registering on the exam portal, filling out the required information, uploading documents (photo, signature, thumb impression, certificates), and paying the fees.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET scores. MBA admissions require a bachelor's degree and TSICET scores. M.E. admissions require a bachelor's degree and GATE scores.  The annual fees range from ₹28,000 for MBA to ₹1,25,000 for B.Tech.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information.  Next, they must upload their photo, signature, thumb impression, and other essential documents (certificates, category certificate if applicable, etc.). Finally, candidates must complete the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is a women's engineering college in Warangal, Telangana, established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), CISCO, TASK, NETRA, AI Deep Learning, NPTEL Swayam, and WEHUB.  It also hosts a Technology Business Incubator (TBI) sponsored by MSME and a NewGen Innovation & Entrepreneurship Development Centre sanctioned by NSTEDB, DST.  The college boasts a 90% placement rate and offers internship opportunities.  Admissions are based on graduation percentage and entrance exam scores.  The hostel fee ranges from ₹85,000 to ₹1,05,000 per year depending on occupancy and AC/non-AC options.  The B.Tech fee is ₹88,000 for the first year, and the lateral entry B.Tech fee is ₹85,000.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information. Next, they must upload their photo, signature, thumb impression, and other essential documents (certificates, category certificates, etc.). Finally, candidates must complete the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "sritw",
+    "answer": "Sumathi Reddy Institute of Technology for Women (SRITW) is a women's engineering college in Warangal, Telangana, established in 2009.  It offers B.Tech programs in CSE, CSE-AI & ML, CSE-DS, CSE-CS, and ECE.  SRITW has collaborations with organizations like Amazon Web Services (AWS), CISCO, TASK, NETRA, AI Deep Learning, NPTEL Swayam, and WEHUB.  It also hosts a Technology Business Incubator (TBI) sponsored by MSME and a NewGen Innovation Entrepreneurship Development Centre sanctioned by NSTEDB, DST.  The college boasts a 90% placement rate and offers various skill development programs.  Admissions are based on graduation percentage and entrance exam scores.  The first-year B.Tech fee is ₹88,000, while the lateral entry fee is ₹85,000.  Hostel fees range from ₹85,000 to ₹1,05,000 per year depending on occupancy and AC/non-AC options.  The college provides various facilities including well-equipped classrooms, labs, library, computer centers, Wi-Fi, auditorium, seminar halls, cafeteria, health center, and sports facilities.  It also offers career development services, workshops, seminars, and extracurricular activities.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "cbit",
+    "answer": "Candidates applying to Chaitanya Bharathi Institute of Technology (CBIT) must go to the official exam portal and click the apply button.  They must then register and fill out the required information.  Next, they must upload their photo, signature, thumb impression, and other essential documents such as certificates. Finally, candidates must fill out the form and pay the required fees.",
+    "lang": "en"
+  },
+  {
+    "question": "jntuh",
+    "answer": "Jawaharlal Nehru Technological University Hyderabad (JNTUH) was founded in 1972.  It is located on an 89-acre campus in Kukatpally, Hyderabad. JNTUH offers courses such as B.Tech, B.Pharma, M.Tech, M.Pharma, M.Sc, MCA, and MBA, as well as five-year integrated dual degree master's programs. Admissions are based on entrance tests like TS EAMCET, TSECET, JEE Main, JEE Advanced, and GATE, followed by counseling.  The university also conducts its own entrance exams for M.Sc, part-time M.Tech/M.Sc/MBA/PGDNT/External Ph.D./M.Phil./M.S. Research and P.G. Diploma programs.  Placements at JNTUH are strong, with top recruiters including companies like CommVault, Amazon, Invesco, and TCS Ninja.  The median package offered for B.Tech and M.Tech is INR 6.25 LPA and INR 8 LPA, respectively, according to the NIRF Report 2024.  Campus facilities include a library, auditoriums, seminar halls, guesthouses, hostels, a canteen, computer labs, a bank, and a fire station.  JNTUH has been accredited by NAAC with a Grade 'A' and is approved by AICTE and UGC.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech admissions accept GATE and TSPGECET. MBA admissions are through TSICET.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSREngineering College offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.",
+    "lang": "en"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSRengineering కళాశాల B.Tech, M.Tech, MBA, మరియు M.E. ప్రోగ్రామ్‌లను అందిస్తుంది.  B.Tech ప్రవేశాలు TSEAMCET స్కోర్‌లపై ఆధారపడి ఉంటాయి. M.Tech ప్రవేశాలు గేట్ మరియు tspgecet ని అంగీకరిస్తాయి. MBA ప్రవేశాలు సిసెట్ ద్వారా.",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MVSRengineering కళాశాల B.Tech, M.Tech, MBA, మరియు M.E. ప్రోగ్రామ్‌లను అందిస్తుంది.  B.Tech ప్రవేశాలు TSEAMCET స్కోర్‌లపై ఆధారపడి ఉంటాయి. M.Tech ప్రవేశాలు గేట్ మరియు tspgecet ని అంగీకరిస్తాయి. MBA ప్రవేశాలు సిసెట్ ద్వారా.",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MvSrengineering कॉलेज B.Tech, M.Tech, MBA, और M.E. कार्यक्रम प्रदान करता है।  B.Tech प्रवेश TseamCet स्कोर पर आधारित हैं। M.Tech गेट और TSPGECET को स्वीकार करता है। एमबीए प्रवेश TSICET स्कोर का उपयोग करते हैं।  वार्षिक शुल्क B.Tech के लिए ₹ 1,25,000, M.Tech के लिए ₹ 85,000, MBA के लिए, 28,000, और M. 57,000 के लिए M.E.",
+    "lang": "hi"
+  },
+  {
+    "question": "mvsr",
+    "answer": "MvSrengineering कॉलेज B.Tech, M.Tech, MBA, और M.E. कार्यक्रम प्रदान करता है।  B.Tech प्रवेश TseamCet स्कोर पर आधारित हैं। M.Tech गेट और TSPGECET को स्वीकार करता है। एमबीए प्रवेश TSICET स्कोर का उपयोग करते हैं।  B.Tech के लिए वार्षिक शुल्क ₹ 1,25,000, M.Tech, 85,000, MBA, 28,000, और M.E. ₹ 57,000 हैं।",
+    "lang": "hi"
+  },
+  {
+    "question": "info about mvsr college",
+    "answer": "Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  \n\nB.Tech admissions are based on TSEAMCET scores.  The fee is ₹1,25,000 per year. Eight B.Tech courses are offered, including Civil, Mechanical, Computer Science, Information Technology, and others.\n\nM.Tech admissions accept GATE and TSPGECET scores. The fee is ₹85,000 per year, with five specializations available, such as CAD/CAM/CAE, Computer Science, Structural Engineering, and VLSI & Embedded Systems.\n\nMBA admissions require the TSICET exam. The fee is ₹28,000 per year, with specializations in Finance, Marketing, and Human Resources.\n\nM.E. programs have a fee of ₹57,000 per year, with specializations like Mechanical (CAD/CAM) and ECE (Embedded Systems & VLSI Design).  The entrance exam accepted is not specified in the context.",
+    "lang": "en"
+  },
+  {
+    "question": "info about mvsr college",
+    "answer": "MVSREngineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores. M.Tech accepts GATE and TSPGECET. MBA admissions use TSICET scores.  The college has an autonomous status and is affiliated with Osmania University.  Yearly fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.  Further details on specific courses offered within each program can be found in the context.",
+    "lang": "en"
+  },
+  {
+    "question": "info about mvsr college",
+    "answer": "MVSRengineering కళాశాల, హైదరాబాద్, B.Tech, M.Tech, MBA మరియు M.E. ప్రోగ్రామ్‌లను అందిస్తుంది.  B.Tech ప్రవేశాలు TSEAMCET స్కోర్‌లపై ఆధారపడి ఉంటాయి. M.Tech గేట్ మరియు Tspgecet ను అంగీకరిస్తుంది. MBA ప్రవేశాలు సిసెట్ స్కోర్‌లను ఉపయోగిస్తాయి.  కళాశాల స్వయంప్రతిపత్త హోదాను కలిగి ఉంది మరియు ఉస్మానియా విశ్వవిద్యాలయంతో అనుబంధంగా ఉంది.  వార్షిక ఫీజులు B.TECH కి 25 1,25,000, M.Tech కి, 000 85,000, MBA కి, 000 28,000, మరియు M.E కి, 000 57,000. వారు ప్రతి ప్రోగ్రామ్‌లో వివిధ ప్రత్యేకతలను అందిస్తారు.  1981 లో స్థాపించబడిన ఇది 18 ఎకరాలకు పైగా విస్తరించి ఉన్న హాస్టల్ సౌకర్యాలతో కూడిన ప్రైవేట్ సహ-సంస్థ.  అందించే అత్యధిక ప్లేస్‌మెంట్ ప్యాకేజీ 6 లక్షలు.",
+    "lang": "te"
+  },
+  {
+    "question": "info about mvsr college",
+    "answer": "మాటురి వెంకట సుబ్బా రావు (ఎంవిఎస్ఆర్) ఇంజనీరింగ్ కాలేజ్, హైదరాబాద్, 1981 లో స్థాపించబడిన ఒక ప్రైవేట్ సంస్థ. ఇది బి.టెక్, ఎం.టెక్, ఎంబీఏ మరియు ఎం.ఇ. ప్రోగ్రామ్‌లను అందిస్తుంది.  \n\nB.Tech ప్రవేశాలు TSEAMCET స్కోర్‌లపై ఆధారపడి ఉంటాయి.  వార్షిక రుసుము 25 1,25,000.  సివిల్, మెకానికల్, కంప్యూటర్ సైన్స్, ఇన్ఫర్మేషన్ టెక్నాలజీ మరియు ఇతరులతో సహా ఎనిమిది బి.టెక్ కోర్సులు అందించబడతాయి.  \n\nM.Tech ప్రవేశాలు గేట్ మరియు TSPGecet స్కోర్‌లను అంగీకరిస్తాయి, వార్షిక రుసుము ₹ 85,000.  CAD/CAM/CAE, కంప్యూటర్ సైన్స్, స్ట్రక్చరల్ ఇంజనీరింగ్ మరియు మరెన్నో సహా ఐదు ప్రత్యేకతలు అందుబాటులో ఉన్నాయి.\n\nMBA ప్రవేశాలకు TSICET పరీక్ష అవసరం, మరియు రుసుము సంవత్సరానికి, 000 28,000.  ప్రత్యేకతలలో ఫైనాన్స్, మార్కెటింగ్ మరియు మానవ వనరులు ఉన్నాయి.\n\nM.E. ప్రోగ్రామ్‌లు సంవత్సరానికి 00 57,000 రుసుము కలిగి ఉంటాయి మరియు రెండు ప్రత్యేకతలను అందిస్తాయి: మెకానికల్ (CAD/CAM) మరియు ECE (ఎంబెడెడ్ సిస్టమ్స్ & VLSI డిజైన్).  M.E. కోసం అంగీకరించిన ప్రవేశ పరీక్ష అందించిన సందర్భంలో పేర్కొనబడలేదు.",
+    "lang": "te"
+  },
+  {
+    "question": "info about mvsr college",
+    "answer": "मातुरी वेंकट सबबा राव (एमवीएसआर) इंजीनियरिंग कॉलेज, हैदराबाद, बीटेक, एम.टेक, एमबीए, और एम.ई. कार्यक्रम प्रदान करता है।  B.Tech प्रवेश TseamCet स्कोर पर आधारित हैं। M.Tech गेट और TSPGECET को स्वीकार करता है। एमबीए प्रवेश TSICET स्कोर का उपयोग करते हैं।  कॉलेज में एक स्वायत्त स्थिति है और यह उस्मानिया विश्वविद्यालय से संबद्ध है।  यह प्रत्येक कार्यक्रम के भीतर विभिन्न विशेषज्ञता प्रदान करता है।  फीस एमबीए के लिए प्रति वर्ष ₹ 28,000 से लेकर B.Tech के लिए प्रति वर्ष of 1,25,000 तक है।  विशिष्ट पाठ्यक्रमों, पात्रता और कटऑफ रैंक के बारे में अधिक विवरण प्रदान किए गए संदर्भ में पाया जा सकता है।",
+    "lang": "hi"
+  },
+  {
+    "question": "info about mvsr college",
+    "answer": "MvSrengineering College, Hyderabad, 1981 में स्थापित एक निजी संस्थान है। यह B.Tech, M.Tech, MBA और M.E. कार्यक्रम प्रदान करता है।  \n\nB.Tech प्रवेश TseamCet स्कोर पर आधारित हैं।  वार्षिक शुल्क ₹ 1,25,000 है।  सिविल, मैकेनिकल, कंप्यूटर साइंस, इंफॉर्मेशन टेक्नोलॉजी और अन्य सहित आठ B.Tech विशेषज्ञताएं हैं।  \n\nM.Tech प्रवेश गेट और TSPGECET स्कोर को स्वीकार करते हैं, जिसमें ₹ 85,000 का वार्षिक शुल्क है।  पांच M.Tech विशेषज्ञता की पेशकश की जाती है, जैसे कि CAD/CAM/CAE, कंप्यूटर साइंस, स्ट्रक्चरल इंजीनियरिंग, VLSI और एम्बेडेड सिस्टम और एक अन्य कंप्यूटर साइंस विकल्प।\n\nएमबीए प्रवेश tsicet के माध्यम से, 28,000 के वार्षिक शुल्क के साथ हैं। विशेषज्ञता में वित्त, विपणन और मानव संसाधन शामिल हैं।\n\nM.E. कार्यक्रमों में ₹ 57,000 का वार्षिक शुल्क है और इसमें मैकेनिकल (CAD/CAM) और ECE (एम्बेडेड सिस्टम और VLSI डिज़ाइन) में विशेषज्ञता शामिल हैं। M.E के लिए स्वीकार की गई परीक्षा संदर्भ में निर्दिष्ट नहीं है।",
+    "lang": "hi"
+  },
+  {
+    "question": "vignan college",
+    "answer": "Vignan Institute of Technology & Science (VITS) is located in Hyderabad, Telangana.  It offers B.Tech and M.Tech programs.  For B.Tech, the TSEAMCET or JEE Main score is accepted. For M.Tech, VITS accepts GATE scores.  A management quota option is also available.  The yearly fees range from ₹57,000-₹2,80,000 depending on the program.  In 2023, 755 students were placed with the highest package being INR 28 LPA.  The average salary package offered typically ranges from INR 4 LPA to INR 6 LPA.",
+    "lang": "en"
+  },
+  {
+    "question": "vignan college",
+    "answer": "Vignan Institute of Technology & Sciences (VITS) is located in Hyderabad, Telangana. It offers B.Tech, M.Tech, BA+LLB, BBA+LLB, BSc, BBA, BCA, B.Pharm, and MSc programs.  B.Tech admissions are based on TSEAMCET/JEE Main scores. M.Tech admissions accept GATE scores.  The highest placement package in 2023 was INR 28 LPA, with an average package ranging from INR 4-6 LPA.  755 students were placed in 2023.  Yearly fees range from ₹57,000 to ₹2,60,000 depending on the program.",
+    "lang": "en"
+  },
+  {
+    "question": "vignan college",
+    "answer": "Vignan Institute of Technology & Science (VITS) is located in Hyderabad, Telangana.  It offers B.Tech and M.Tech programs.  For B.Tech, the TSEAMCET or JEE Main score is accepted. For M.Tech, VITS accepts GATE scores.  A management quota option is also available.  The yearly fees range from ₹57,000-₹2,80,000 depending on the program.  In 2023, 755 students were placed with the highest package being INR 28 LPA.  The average salary package offered typically ranges from INR 4 LPA to INR 6 LPA.",
+    "lang": "en"
+  },
+  {
+    "question": "vignan college placements",
+    "answer": "2023 కోసం విగ్నాన్ ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ & సైన్సెస్ ప్లేస్‌మెంట్స్ 755 మంది విద్యార్థులను చూశారు. అత్యధిక ప్యాకేజీ INR 28 LPA, ఇది మైవేస్ అందిస్తోంది.  సుమారు 12 కంపెనీలు INR 10 LPA పైన ప్యాకేజీలను అందించాయి. యాక్సెంచర్ ఎక్కువ ఆఫర్లు ఇచ్చింది. ప్రధాన రిక్రూటర్లలో అమెజాన్, జుస్పే, సిస్కో, ఫెడరల్ బ్యాంక్, ఇన్ఫోసిస్, టిసిఎస్ మరియు ఐబిఎం ఉన్నాయి.  అందించే సగటు జీతం ప్యాకేజీ సాధారణంగా INR 4 LPA నుండి INR 6 LPA వరకు ఉంటుంది.",
+    "lang": "te"
+  },
+  {
+    "question": "vignan college placements",
+    "answer": "2023 కోసం విగ్నాన్ ఇన్స్టిట్యూట్ ఆఫ్ టెక్నాలజీ & సైన్సెస్ ప్లేస్‌మెంట్స్ 755 మంది విద్యార్థులను చూశారు. అందించిన అత్యధిక ప్యాకేజీ మైవేస్ చేత 28 LPA.  సుమారు 12 కంపెనీలు INR 10 LPA పైన ప్యాకేజీలను అందించాయి. యాక్సెంచర్ ఎక్కువ ఆఫర్లు ఇచ్చింది. ప్రధాన రిక్రూటర్లలో అమెజాన్, జుస్పే, సిస్కో, ఫెడరల్ బ్యాంక్, ఇన్ఫోసిస్, టిసిఎస్ మరియు ఐబిఎం ఉన్నాయి.  అందించే సగటు జీతం ప్యాకేజీ సాధారణంగా INR 4 LPA నుండి INR 6 LPA వరకు ఉంటుంది.",
+    "lang": "te"
+  },
+  {
+    "question": "how is engineering",
+    "answer": "ఇది వెర్రి మరియు చల్లని-తరగతి, అర్థరాత్రి అధ్యయన జామ్‌లు, ఫెస్ట్‌లు మరియు హ్యాంగ్అవుట్‌ల అడవి మిశ్రమం! టాప్ కాలేజీలలో పెద్ద క్యాంపస్‌లు ఉన్నాయి, కాబట్టి డైవ్ చేయడానికి ఎల్లప్పుడూ ఏదో ఉంటుంది. మీరు వైబ్ మరియు గందరగోళాన్ని ఇష్టపడతారు!",
+    "lang": "te"
+  },
+  {
+    "question": "how is engineering",
+    "answer": "ఇది వెర్రి మరియు చల్లని-తరగతి, అర్థరాత్రి అధ్యయన జామ్‌లు, ఫెస్ట్‌లు మరియు హ్యాంగ్అవుట్‌ల అడవి మిశ్రమం! టాప్ కాలేజీలలో పెద్ద క్యాంపస్‌లు ఉన్నాయి, కాబట్టి డైవ్ చేయడానికి ఎల్లప్పుడూ ఏదో ఉంటుంది. మీరు వైబ్ మరియు గందరగోళాన్ని ఇష్టపడతారు!",
+    "lang": "te"
+  },
+  {
+    "question": "how is engineering",
+    "answer": "It's a wild mix of crazy and cool—classes, late-night study jams, fests, and hangouts keep it buzzing! Top colleges have big campuses, so there’s always something to dive into. You’ll love the vibe and chaos!",
+    "lang": "en"
+  },
+  {
+    "question": "how is engineering",
+    "answer": "It’s a wild mix of crazy and cool—classes, late-night study jams, fests, and hangouts keep it buzzing! Top colleges have big campuses, so there’s always something to dive into. You’ll love the vibe and chaos!",
+    "lang": "en"
+  },
+  {
+    "question": "top 10 colleges in telangana",
+    "answer": "The provided text lists several colleges in Telangana, but not a ranked \"top 10\".  It mentions details about Geethanjali College of Engineering and Technology, Keesara; Sphoorthy Engineering College (SEC), Hyderabad; Maturi Venkata Subba Rao Engineering College; VJIT (Vidya Jyothi Institute of Technology); GITAM University, Hyderabad; and Sreenidhi Institute of Science & Technology.  It also lists numerous colleges categorized by district, but doesn't offer a definitive top 10 ranking.",
+    "lang": "en"
+  },
+  {
+    "question": "top 10 colleges in telangana",
+    "answer": "The provided text lists several colleges in Telangana, but it doesn't rank them.  Therefore, I cannot provide a list of the top 10 colleges in Telangana.",
+    "lang": "en"
+  },
+  {
+    "question": "colleges in warangal",
+    "answer": "Chaitanya (Deemed to be University)\nGanapathy Engineering College\nChristu Jyothi Institute of Technology and Science\nKakatiya Institute of Technology & Science (KITS)\nRamappa Engineering College\nSumathi Reddy Institute of Technology for Women\nVaagdevi Engineering College\nSree Dattha Group of Institutions\nS.V.S. Group of Institutions\nTalla Padmavathi College of Engineering\nJayamukhi Institute of Technological Sciences\nVaagdevi College of Engineering\nWarangal Institute of Technology & Science\nBalaji Institute of Technology & Science",
+    "lang": "en"
+  },
+  {
+    "question": "colleges in warangal",
+    "answer": "Chaitanya (Deemed to be University)\nGanapathy Engineering College\nChristu Jyothi Institute of Technology and Science\nKakatiya Institute of Technology & Science (KITS)\nRamappa Engineering College\nSumathi Reddy Institute of Technology for Women\nVaagdevi Engineering College\nSree Dattha Group of Institutions\nS.V.S. Group of Institutions\nTalla Padmavathi College of Engineering\nJayamukhi Institute of Technological Sciences\nVaagdevi College of Engineering\nWarangal Institute of Technology & Science\nBalaji Institute of Technology & Science",
+    "lang": "en"
+  },
+  {
+    "question": "icecream",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "icecream",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "\"What’s CSE cutoff at VNR VJIET? Compare with Osmania\"",
+    "answer": "The provided text contains VNR VJIET cutoff ranks for CSE (Computer Science and Engineering) but doesn't include cutoff information for Osmania University.  Therefore, a comparison cannot be made.  The cutoff ranks for CSE (boys) at VNR VJIET are:\n\n2021: 1397\n2022: 1786\n2023: 2679\n\nThe cutoff ranks for CSE (girls) at VNR VJIET are:\n\n2021: 1426\n2022: 2595\n2023: 2715",
+    "lang": "en"
+  },
+  {
+    "question": "how are placements at mvsr college",
+    "answer": "This question cannot be answered from the given context.  The provided text mentions placement information for BVRIT Narsapur and HITAM, but not for MVSR college.",
+    "lang": "en"
+  },
+  {
+    "question": "what's the fee structure at mvsr",
+    "answer": "MVSREngineering College fees range from ₹28,000 to ₹1,25,000 per year depending on the degree level, duration, and specialization of the course.\n\nThe fee structure for 2024 is as follows:\n\nB.Tech: ₹1,25,000\nM.Tech: ₹85,000\nMBA: ₹28,000\nM.E.: ₹57,000",
+    "lang": "en"
+  },
+  {
+    "question": "give faculty details of mvsr",
+    "answer": "**Department of Civil Engineering**\n\n* HOD: Dr. Marthi Kameswara Rao\n* Associate Professors: Dr. Gumpalli Sreenivasa Rao, Dr. Regalla Sandhya Rani, Ramancharla Prashant Kumar, Dr. Gundrathi Narendra Goud\n\n**Department of Computer Science and Engineering (CSE)**\n\n* Professor & HOD: J. Prasanna Kumar\n  * Email: hod_cse@mvsrec.edu.in\n\n**Department of Electronics and Communication Engineering (ECE)**\n\n* Professor & HOD: Dr. G. Kanaka Durga\n * Email: hod_ece@mvsrec.edu.in\n\n**Department of Mechanical Engineering**\n\n* Professor & HOD: Dr. M. Madhavi\n * Email: hod_mech@mvsrec.edu.in\n  * Contact: 9642043570\n\n**Department of Information Technology (IT)**\n\n* Professor & HOD: Dr. K. Venu Gopal Rao\n * Email: hod_it@mvsrec.edu.in\n\n**Department of Automobile Engineering**\n\n* HOD: Dr. Gangaraju Srinivasa Sarma\n * Email: hod_auto@mvsrec.edu.in",
+    "lang": "en"
+  },
+  {
+    "question": "what does mvsr stands for",
+    "answer": "Maturi Venkata Subba Rao",
+    "lang": "en"
+  },
+  {
+    "question": "what does mvsrec stands for",
+    "answer": "Maturi Venkata Subba Rao Engineering College",
+    "lang": "en"
+  },
+  {
+    "question": "info about mvsr",
+    "answer": "Maturi Venkata Subba Rao (MVSR) Engineering College, Hyderabad, offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TSEAMCET scores, M.Tech on GATE or TSPGECET, and MBA on TSICET.  The annual fees are ₹1,25,000 for B.Tech, ₹85,000 for M.Tech, ₹28,000 for MBA, and ₹57,000 for M.E.  The college offers various specializations within each program.  For example, B.Tech specializations include Civil, Mechanical, Computer Science, Information Technology, and others.  M.Tech options include CAD/CAM/CAE, Computer Science, Structural Engineering, and more.  MBA specializations are Finance, Marketing, and Human Resources.  Further details on specific M.E. specializations can be found in the provided text.",
+    "lang": "en"
+  },
+  {
+    "question": "info about cbit",
+    "answer": "Chaitanya Bharathi Institute of Technology (CBIT) Hyderabad has a placement cell that promotes enrollment drives and organizes position training.  In the 2020 drive, 75 organizations presented over 524 offers to 408 students out of 982 enrolled students.  The Training and Placement (T&P) Cell was established in 1994.  The placement percentage in 2021 is 82% with the highest CTC of Rs 14 LPA and an average CTC of Rs 8 LPA. Top recruiters include IBM, Optum, Unisys, Dell, Nokia, Robert Bosch, Microfocus, Mistral Solutions, MUSigma, OneDirect, Infosys, Oracle, and Capgemini. CBIT cutoff for B.Tech courses is based on TSEAMCET (now TSEAPCET) and will be released by the Telangana State Council of Higher Education (TSCHE).  Expected cutoffs for 2024 are available based on previous years' data.  Cutoff trends from 2021-2023 show a decrease in cutoff for CSE and Information Technology.  2023 cutoff ranks are available for various categories (OC, BC_A, BC_B, BC_C, BC_D, BC_E, SC, ST, EWS General) for both boys and girls.  NIRF ranking for CBIT is available for 2024, 2022, and 2021. Student reviews mention good placements, reasonable fee structure, good hostel food, experienced faculty, and a beneficial curriculum. Dislikes include remote location, tough entrance exam, average package, large class size, and no separate entrance examination.",
+    "lang": "en"
+  },
+  {
+    "question": "info about cbit",
+    "answer": "Chaitanya Bharathi Institute of Technology (CBIT) Hyderabad has a placement cell that promotes enrollment drives and organizes position training.  In the 2020 drive, 75 organizations presented over 524 offers to 408 students out of 982 enrolled students.  The Training and Placement (T&P) Cell was established in 1994.  The placement percentage in 2021 is 82%, with the highest CTC of Rs 14 LPA and an average CTC of Rs 8 LPA. Top recruiters include IBM, Optum, Unisys, Dell, Nokia, Robert Bosch, Microfocus, Mistral Solutions, MUSigma, OneDirect, Infosys, Oracle, and Capgemini.  CBIT Hyderabad cutoff for B.Tech courses is based on TSEAMCET (now TSEAPCET) and will be released by the Telangana State Council of Higher Education (TSCHE).  Expected cutoffs for 2024 are available based on previous years' data. Cutoff trends from 2021-2023 show decreases in cutoffs for CSE and Information Technology.  2023 cutoff ranks are available for various categories (OC, BC_A, BC_B, BC_C, BC_D, BC_E, SC, ST, EWS General) for both boys and girls.  CBIT has been ranked by NIRF, with a 2024 ranking of 151 in Engineering. Student reviews mention good placements, reasonable fee structure, good hostel food, experienced faculty, and a beneficial curriculum.  Dislikes include remote location, tough entrance exam, average package, large class size, and lack of a separate entrance exam.",
+    "lang": "en"
+  },
+  {
+    "question": "placements in cbit",
+    "answer": "2020 ఎన్‌రోల్‌మెంట్ డ్రైవ్ సమయంలో, 75 సంస్థలు CBIT ని సందర్శించాయి, 524 కి పైగా ఆఫర్లను విస్తరించాయి, 408 మంది ఉంచబడిన 408 మంది విద్యార్థులకు చేరిన 982 మంది విద్యార్థులలో.  CBIT 1994 లో స్థాపించబడిన శిక్షణ మరియు ప్లేస్‌మెంట్ (టి అండ్ పి) సెల్ ఉంది. CBIT ప్లేస్‌మెంట్ సెల్ విద్యార్థులను పరిశ్రమ ఇంటర్న్‌షిప్‌లలో పాల్గొనడానికి ప్రోత్సహిస్తుంది.  2021 లో, ప్లేస్‌మెంట్ శాతం 82%, అత్యధిక సిటిసి రూ .14 ఎల్‌పిఎ మరియు సగటు సిటిసి రూ .8 ఎల్‌పిఎ.  అగ్రశ్రేణి రిక్రూటర్లలో ఐబిఎం, ఆప్టం, యునిసిస్, డెల్, నోకియా, రాబర్ట్ బాష్, మైక్రోఫోకస్, మిస్ట్రాల్ సొల్యూషన్స్, ముసిగ్మా, వన్‌డైరెక్ట్, ఇన్ఫోసిస్, ఒరాకిల్ మరియు కాప్జెమిని ఉన్నాయి.",
+    "lang": "te"
+  },
+  {
+    "question": "placements in cbit",
+    "answer": "2020 ఎన్‌రోల్‌మెంట్ డ్రైవ్ సమయంలో, 75 సంస్థలు CBIT ని సందర్శించాయి, 524 కి పైగా ఆఫర్లను విస్తరించాయి, 408 మంది ఉంచబడిన 408 మంది విద్యార్థులకు చేరిన 982 మంది విద్యార్థులలో.  CBIT 1994 లో స్థాపించబడిన శిక్షణ మరియు ప్లేస్‌మెంట్ (టి అండ్ పి) సెల్ ఉంది. CBIT ప్లేస్‌మెంట్ సెల్ విద్యార్థులను పరిశ్రమ ఇంటర్న్‌షిప్‌లలో పాల్గొనడానికి ప్రోత్సహిస్తుంది.  2021 లో, ప్లేస్‌మెంట్ శాతం 82%, అత్యధిక సిటిసి రూ .14 ఎల్‌పిఎ మరియు సగటు సిటిసి రూ .8 ఎల్‌పిఎ.  అగ్రశ్రేణి రిక్రూటర్లలో ఐబిఎం, ఆప్టం, యునిసిస్, డెల్, నోకియా, రాబర్ట్ బాష్, మైక్రోఫోకస్, మిస్ట్రాల్ సొల్యూషన్స్, ముసిగ్మా, వన్‌డైరెక్ట్, ఇన్ఫోసిస్, ఒరాకిల్ మరియు కాప్జెమిని ఉన్నాయి.",
+    "lang": "te"
+  },
+  {
+    "question": "schlorships in mvsr",
+    "answer": "తెలంగాణలో ఇంజనీరింగ్ కళాశాల ప్రవేశాలతో మీకు సహాయం చేయడానికి ఎడ్యూబోట్ ఇక్కడ ఉంది! కళాశాలలు, కోర్సులు, ఫీజులు లేదా ప్రవేశ ప్రక్రియకు సంబంధించిన ఏవైనా ప్రశ్నలు మీకు ఉంటే, నేను సహాయం చేయడానికి సంతోషంగా ఉన్నాను. నేను మీకు ఎలా సహాయం చేయగలను అని నాకు తెలియజేయండి!",
+    "lang": "te"
+  },
+  {
+    "question": "schlorships in mvsr",
+    "answer": "తెలంగాణలో ఇంజనీరింగ్ కళాశాల ప్రవేశాలతో మీకు సహాయం చేయడానికి ఎడ్యూబోట్ ఇక్కడ ఉంది! కళాశాలలు, కోర్సులు, ఫీజులు లేదా ప్రవేశ ప్రక్రియకు సంబంధించిన ఏవైనా ప్రశ్నలు మీకు ఉంటే, నేను సహాయం చేయడానికి సంతోషంగా ఉన్నాను. నేను మీకు ఎలా సహాయం చేయగలను అని నాకు తెలియజేయండి!",
+    "lang": "te"
+  },
+  {
+    "question": "mvst",
+    "answer": "తెలంగాణలో ఇంజనీరింగ్ కళాశాల ప్రవేశాలతో మీకు సహాయం చేయడానికి ఎడ్యూబోట్ ఇక్కడ ఉంది! కళాశాలలు, కోర్సులు, ఫీజులు లేదా ప్రవేశ ప్రక్రియకు సంబంధించిన ఏవైనా ప్రశ్నలు మీకు ఉంటే, నేను సహాయం చేయడానికి సంతోషంగా ఉన్నాను. నేను మీకు ఎలా సహాయం చేయగలను అని నాకు తెలియజేయండి!",
+    "lang": "te"
+  },
+  {
+    "question": "mvst",
+    "answer": "తెలంగాణలో ఇంజనీరింగ్ కళాశాల ప్రవేశాలతో మీకు సహాయం చేయడానికి ఎడ్యూబోట్ ఇక్కడ ఉంది! కళాశాలలు, కోర్సులు, ఫీజులు లేదా ప్రవేశ ప్రక్రియకు సంబంధించిన ఏవైనా ప్రశ్నలు మీకు ఉంటే, నేను సహాయం చేయడానికి సంతోషంగా ఉన్నాను. నేను మీకు ఎలా సహాయం చేయగలను అని నాకు తెలియజేయండి!",
+    "lang": "te"
+  },
+  {
+    "question": "mvsr clg",
+    "answer": "తెలంగాణలో ఇంజనీరింగ్ కళాశాల ప్రవేశాలతో మీకు సహాయం చేయడానికి ఎడ్యూబోట్ ఇక్కడ ఉంది! కళాశాలలు, కోర్సులు, ఫీజులు లేదా ప్రవేశ ప్రక్రియకు సంబంధించిన ఏవైనా ప్రశ్నలు మీకు ఉంటే, నేను సహాయం చేయడానికి సంతోషంగా ఉన్నాను. నేను మీకు ఎలా సహాయం చేయగలను అని నాకు తెలియజేయండి!",
+    "lang": "te"
+  },
+  {
+    "question": "how is engineering life",
+    "answer": "ఇది వెర్రి మరియు చల్లని-తరగతి, అర్థరాత్రి అధ్యయన జామ్‌లు, ఫెస్ట్‌లు మరియు హ్యాంగ్అవుట్‌ల అడవి మిశ్రమం! టాప్ కాలేజీలలో పెద్ద క్యాంపస్‌లు ఉన్నాయి, కాబట్టి డైవ్ చేయడానికి ఎల్లప్పుడూ ఏదో ఉంటుంది. మీరు వైబ్ మరియు గందరగోళాన్ని ఇష్టపడతారు!",
+    "lang": "te"
+  },
+  {
+    "question": "how is engineering life",
+    "answer": "It’s a wild mix of crazy and cool—classes, late-night study jams, fests, and hangouts keep it buzzing! Top colleges have big campuses, so there’s always something to dive into. You’ll love the vibe and chaos!",
+    "lang": "en"
+  },
+  {
+    "question": "mvst college",
+    "answer": "The provided text mentions MVSREC (Maturi Venkata Subba Rao Engineering College), not MVST.  It offers B.Tech, M.Tech, MBA, and M.E. programs.  B.Tech admissions are based on TS-EAMCET, M.Tech on GATE/TS-PGECET, and MBA on TS-ICET.  Fee details, cutoff ranks (previous years and expected), placement statistics, and faculty details are available for MVSREC.",
+    "lang": "en"
+  },
+  {
+    "question": "top 10",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "top 10 engineering colleges in hyderabad",
+    "answer": "EduBot is here to assist you with engineering college admissions in Telangana! If you have any queries related to colleges, courses, fees, or the admission process, I’d be happy to help. Let me know how I can assist you!",
+    "lang": "en"
+  },
+  {
+    "question": "ts scholarships",
+    "answer": "The provided text mentions several scholarship opportunities for students in Telangana, including government scholarships based on entrance exam performance (₹35,000), alumni waivers (25% tuition fee), and private scholarships such as the Tata Scholarship for Engineering Students (₹1,00,000 per year), LIC Golden Jubilee Scholarship (₹20,000 per year), and Sitaram Jindal Foundation Scholarship (₹48,000 per year).  It also mentions bank education loans with interest rates between 7-10% per annum, some with interest-free options under government schemes.",
+    "lang": "en"
+  }
+]

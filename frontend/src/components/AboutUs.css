@@ -1,0 +1,176 @@
+.about-container {
+    min-height: 50vh;
+  }
+  
+  .about-hero {
+    /* Use gradient instead of image */
+    background: linear-gradient(to right, #5f5f67, #ececfb);
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 0 20px;
+  }
+  
+  .about-hero h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .about-hero p {
+    font-size: 1.5rem;
+    max-width: 600px;
+  }
+  .about-hero-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+  
+
+  .section-content {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .section-content h2 {
+    color: #2d3748;
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .section-content p {
+    color: #4a5568;
+    font-size: 1.2rem;
+    line-height: 1.8;
+  }
+  
+  .values-section {
+    padding: 5rem 2rem;
+    background-color: white;
+  }
+  
+  .values-section h2 {
+    text-align: center;
+    color: #2d3748;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+  }
+  
+  .values-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .value-card {
+    padding: 2rem;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+  
+  .value-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .value-card i {
+    font-size: 2.5rem;
+    color: #4f46e5;
+    margin-bottom: 1rem;
+  }
+  
+  .value-card h3 {
+    color: #2d3748;
+    margin-bottom: 1rem;
+  }
+  
+  .value-card p {
+    color: #4a5568;
+  }
+  
+  .team-section {
+    padding: 5rem 2rem;
+    background-color: #f8fafc;
+  }
+  
+  .team-section h2 {
+    text-align: center;
+    color: #2d3748;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+  }
+  
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 3rem;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .team-member {
+    text-align: center;
+  }
+  
+  .member-image {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 1.5rem;
+    border-radius: 50%;
+    overflow: hidden;
+  }
+  
+  .member-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .team-member h3 {
+    color: #2d3748;
+    margin-bottom: 0.5rem;
+  }
+  
+  .team-member p {
+    color: #4a5568;
+  }
+  
+  @media (max-width: 768px) {
+    .about-hero h1 {
+      font-size: 2.5rem;
+    }
+  
+    .about-hero p {
+      font-size: 1.2rem;
+    }
+  
+    .section-content h2 {
+      font-size: 2rem;
+    }
+  }
+  .hero-image-container {
+    width: 100%;
+    height: 500px;  /* Increased height */
+    position: relative;
+    margin-top: 20px;  /* Add space below navbar */
+    margin-bottom: 20px; /* Remove any default margins */
+    padding: 0;  /* Remove any default padding */
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;  /* Removed the trailing forward slash */
+}

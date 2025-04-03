@@ -1,0 +1,78 @@
+.signup-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: calc(100vh - 120px); /* Adjust if Navbar/Footer height differs */
+    padding: 20px;
+  }
+  
+  .signup-container {
+    flex: 1;
+    max-width: 400px;
+    padding: 0 20px;
+  }
+  
+  .signup-box {
+    background: white;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .signup-box h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .signup-box input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
+  .signup-box button {
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 10px 0;
+  }
+  
+  .signup-box button:hover {
+    background: #0056b3;
+  }
+  
+  .signup-box p {
+    text-align: center;
+    margin: 10px 0;
+  }
+  
+  .signin-link {
+    color: #007bff;
+    cursor: pointer;
+  }
+  
+  .signin-link:hover {
+    text-decoration: underline;
+  }
+  
+  .signup-image {
+    flex: 1;
+    max-width: 400px;
+    padding: 0 20px;
+    display: flex; /* Added to control image alignment */
+    align-items: center; /* Center image vertically */
+  }
+  
+  .signup-image img {
+    width: 100%;
+    height: auto; /* Changed from 100% to auto for natural aspect ratio */
+    max-height: 400px; /* Optional: limits height to match form approx. */
+    object-fit: cover;
+    border-radius: 8px;
+  }
